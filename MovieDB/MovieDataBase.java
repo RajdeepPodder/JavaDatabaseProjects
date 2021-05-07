@@ -107,7 +107,7 @@ public class MovieDataBase extends JFrame implements ActionListener {
 
         try {
             Class.forName("oracle.jdbc.driver.OracleDriver"); 
-            con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","system","kunalpodder1");
+            con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","system","your password");
             st = con.createStatement();
             rs = st.executeQuery("select mov_title from Movie");
             Vector v = new Vector();
