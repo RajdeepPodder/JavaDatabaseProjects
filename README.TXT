@@ -11,7 +11,7 @@ HOW TO START THIS PROJECT:
 AUTHORS:
 USER INSTRUCTIONS:
 
-In this project we have combined I have created a Movie Database with Java and oracle SQL as the database. The project will be simple and focused towards to the implementation of various database operations. It will take in the user’s input/request and query the database and give back the results.
+In this project I have created a Movie Database with a combination of  Java and oracle SQL as the database. The project will be simple and focused towards to the implementation of various database operations. It will take in the user’s input/request and query the database and give back the results.
 INTRODUCTION:-
 
 
